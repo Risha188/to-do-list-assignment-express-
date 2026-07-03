@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Risha188/to-do-list-assignment-express-#readme",
+  "bugs": {
+    "url": "https://github.com/Risha188/to-do-list-assignment-express-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Risha188/to-do-list-assignment-express-.git"
+  },
+  "license": "ISC",
+  "author": "Parna Das",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

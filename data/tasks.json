@@ -1,0 +1,52 @@
+{
+    "tasks": [
+        {
+            "id": "1",
+            "title": "Buy groceries",
+            "description": "Purchase milk, bread, eggs, and vegetables for the week.",
+            "priority": "medium",
+            "status": "pending",
+            "dueDate": "2026-07-10"
+        },
+        {
+            "id": "2",
+            "title": "Finish report",
+            "description": "Complete the quarterly sales report",
+            "priority": "high",
+            "status": "in-progress",
+            "dueDate": "2026-07-08"
+        },
+        {
+            "id": "3",
+            "title": "Call plumber",
+            "description": "Schedule the repair for the kitchen sink leak.",
+            "priority": "low",
+            "status": "pending",
+            "dueDate": "2026-07-12"
+        },
+        {
+            "id": "4",
+            "title": "Plan birthday party",
+            "description": "Organize guest list, decorations, and catering for the party.",
+            "priority": "medium",
+            "status": "in-progress",
+            "dueDate": "2026-07-15"
+        },
+        {
+            "id": "5",
+            "title": "Read book",
+            "description": "Finish reading the new novel and take notes for the book club.",
+            "priority": "low",
+            "status": "completed",
+            "dueDate": "2026-07-05"
+        },
+        {
+            "id": "6",
+            "title": "Gym workout",
+            "description": "Attend the evening strength training session.",
+            "priority": "high",
+            "status": "pending",
+            "dueDate": "2026-07-09"
+        }
+    ]
+}
